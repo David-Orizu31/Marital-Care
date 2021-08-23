@@ -285,3 +285,7 @@ p .foot-link {
     font-size: 17px;
     font-weight: bold;
 }
+
+.form-group {
+    margin-top: 15px;
+}
