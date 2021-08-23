@@ -1,0 +1,46 @@
+@media (max-width:780px) {
+    nav .nav-item .nav-link {
+        padding-left: 5px !important;
+    }
+
+    .navbar-nav {
+        padding: 0px !important;
+    }
+    .navbar-nav:after {
+        background: transparent !important;
+    } 
+
+    .btn-get-started {
+        margin-bottom: 15px;
+    }
+
+    .btn-login {
+        margin-bottom: 15px;
+    }
+
+    .review-contents {
+        margin-top: 20px;
+    }
+
+    .contact-address {
+        margin-top: 20px;
+    }
+
+    .bene-marital {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:480px) {
+    .banner-area {
+        min-height: 570px;
+    }
+
+    .about-banner {
+        min-height: 570px;
+    }
+
+    .contact-banner {
+        min-height: 570px;
+    }
+}
